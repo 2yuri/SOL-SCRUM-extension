@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Sol Scrum",
+  "description": "beauty SOL's SCRUM",
+  "version": "1.0.0",
+  
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "index.html"
+  },
+  "icons": {"128": "logo_128.png"},
+  "permissions": ["activeTab"],
+  "content_scripts": [{
+    "css": ["content.css"],
+    "matches": ["http://sol.ec.eco.br/", "http://sol.ec.eco.br/solerp/index.php?mod=esquadrao&act=scrumesquadroes"]
+  }]
+}

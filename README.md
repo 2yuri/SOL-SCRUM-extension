@@ -3,19 +3,13 @@
 ### HOW TO INSTALL
 
 - Download zip file
-- Open the link below
+- Open the link chrome://extensions/ or
 
 <p align="center">
-<a  href="https://chrome://extensions/" target="_blank"> Link <a />
+  <img src="https://i.imgur.com/Waga5PZ.png" title="source: imgur.com" />
 <p/>
+
+
 
 - Upload the file
 - And open SOL SCRUM
-
-### Before
-
-<img src="https://i.imgur.com/QZ3ffCE.gif" title="source: imgur.com" />
-
-### After
-
-<img src="https://i.imgur.com/aUCEzYW.gif" title="source: imgur.com" />

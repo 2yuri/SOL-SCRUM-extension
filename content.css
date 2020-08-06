@@ -3,11 +3,11 @@
   overflow-y: scroll;
   height: auto !important;
   max-height: 85vh !important;
-  border-bottom-left-radius: 4px;
-  border-bottom-right-radius: 4px;
+  border: none !important;
+  border-radius: 4px !important;
   width: 3 80px !important;
   margin: 0 5px !important;
-  background-color: #ebecf0 !important;
+  background-color: #525252 !important;
 }
 
 .clspersonal210 {
@@ -36,32 +36,49 @@
 }
 
 #div-tabela-geralP {
-  background-color: #cecece;
+  background-color: #313131;
 }
 
 body {
-  background-color: #cecece;
+  background-color: #313131;
 }
 
 .div-cor-AzulEscuro {
-  background-color: #ebecf0 !important;
+  background-color: #e4e4e4 !important;
 }
 
 .div-cor-AzulClaro {
-  background-color: #ebecf0 !important;
+  background-color: #e4e4e4 !important;
 }
 
 .div-cor-AzulBemClaro {
-  background-color: #ebecf0 !important;
+  background-color: #e4e4e4 !important;
 }
 
 .divs-sols {
   border: none !important;
-  margin: 10px 0;
+  margin: 0 6px !important;
   border-radius: 8px !important;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
 
 .form_tabela {
   margin: 10px 5px;
   border: none !important;
+}
+
+#div-tabela-geralP {
+  border: none !important;
+}
+
+.div-coluna-nomeP {
+  background-color: #fff !important;
+  border-radius: 4px !important;
+  border: none !important;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+div#overlay_modal {
+  min-width: 3040px;
+  z-index: 5;
 }

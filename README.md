@@ -1,4 +1,4 @@
-# SOL SCRUM
+# ☀️ SOL SCRUM
 
 ### HOW TO INSTALL
 
@@ -11,3 +11,11 @@
 
 - Upload the file
 - And open SOL SCRUM
+
+### Before
+
+<img src="https://i.imgur.com/QZ3ffCE.gif" title="source: imgur.com" />
+
+### After
+
+<img src="https://i.imgur.com/tCDt3Ll.gif" title="source: imgur.com" />

@@ -10,37 +10,14 @@
   background-color: #525252 !important;
 }
 
-.clspersonal210 {
-  background-color: #fff !important;
-}
-.clspersonal150 {
-  background-color: #fff !important;
-}
-.clspersonal67 {
-  background-color: #fff !important;
-}
-.clspersonal396 {
-  background-color: #fff !important;
-}
-.clspersonal85 {
-  background-color: #fff !important;
-}
-.clspersonal543 {
-  background-color: #fff !important;
-}
-.clspersonal182 {
-  background-color: #fff !important;
-}
-.clspersonal52 {
-  background-color: #fff !important;
-}
-
 #div-tabela-geralP {
-  background-color: #313131;
+  background-color: transparent;
 }
 
 body {
-  background-color: #313131;
+  background-image: url("https://www.gamerview.com.br/wp-content/uploads/2018/12/129630-bloodborne-wallpaper-1920x1080-1920x1080-notebook.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .div-cor-AzulEscuro {
@@ -58,6 +35,7 @@ body {
 .divs-sols {
   border: none !important;
   margin: 0 6px !important;
+  background-color: #fff !important;
   border-radius: 8px !important;
   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
 }

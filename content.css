@@ -5,7 +5,19 @@
   max-height: 85vh !important;
   border: none !important;
   border-radius: 4px !important;
-  width: 3 80px !important;
+  width: 350px !important;
+  margin: 0 5px !important;
+  background-color: #525252 !important;
+}
+
+.div-tabela-coluna {
+  overflow-x: hidden !important;
+  overflow-y: scroll;
+  height: auto !important;
+  max-height: 85vh !important;
+  border: none !important;
+  border-radius: 4px !important;
+  width: 350px !important;
   margin: 0 5px !important;
   background-color: #525252 !important;
 }
@@ -45,6 +57,9 @@ body {
   border: none !important;
 }
 
+#div-tabela-geral {
+  border: none !important;
+}
 #div-tabela-geralP {
   border: none !important;
 }

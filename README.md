@@ -1,13 +1,15 @@
-# SOL SCRUM
+# ☀️ SOL SCRUM
 
 ### HOW TO INSTALL
 
 - Download zip file
-- Open the link below
+- Open the link chrome://extensions/ or
 
 <p align="center">
-<a  href="https://chrome://extensions/" target="_blank"> Link <a />
+  <img src="https://i.imgur.com/Waga5PZ.png" title="source: imgur.com" />
 <p/>
+
+
 
 - Upload the file
 - And open SOL SCRUM

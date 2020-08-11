@@ -18,8 +18,11 @@ div.appendChild(button)
 function updateImageAtBackground(){
   const url = input.value;
   document.body.style.backgroundImage = `url(${url})`;
-  console.log('clicked')
   localStorage.setItem('UrlBackground', JSON.stringify(url));
+  
+  input.value = ''
+
+  alert('Imagem alterada com Sucesso!')
 }
 
 

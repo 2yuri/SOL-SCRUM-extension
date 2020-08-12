@@ -42,4 +42,3 @@ const receive = localStorage.getItem('UrlBackground');
 if (receive !== '' && receive !== undefined) {
   document.body.style.backgroundImage = `url(${JSON.parse(receive)})`;
 }
-

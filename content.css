@@ -19,7 +19,7 @@
   border-radius: 4px !important;
   width: 350px !important;
   margin: 0 5px !important;
-  background-color: #525252 !important;
+  background-color: #dfdfdf !important;
 }
 
 #div-tabela-geralP {
@@ -33,21 +33,9 @@ body {
   background-attachment: fixed;
 }
 
-.div-cor-AzulEscuro {
-  background-color: #e4e4e4 !important;
-}
-
-.div-cor-AzulClaro {
-  background-color: #e4e4e4 !important;
-}
-
-.div-cor-AzulBemClaro {
-  background-color: #e4e4e4 !important;
-}
-
 .divs-sols {
   border: none !important;
-  margin: 0 6px !important;
+  margin: 15px 6px !important;
   background-color: #fff !important;
   border-radius: 8px !important;
   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);

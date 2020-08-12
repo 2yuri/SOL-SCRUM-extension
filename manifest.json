@@ -3,16 +3,30 @@
   "name": "Sol Scrum",
   "description": "beauty SOL's SCRUM",
   "version": "1.0.0",
-  
   "browser_action": {
     "default_icon": "logo.png",
     "default_popup": "index.html"
   },
-  "icons": {"128": "logo_128.png"},
-  "permissions": ["activeTab"],
-  "content_scripts": [{
-    "css": ["content.css"],
-    "js": ["app.js"],
-    "matches": ["http://sol.ec.eco.br/", "http://sol.ec.eco.br/solerp/index.php?mod=esquadrao&act=scrumesquadroes"]
-  }]
+  "icons": {
+    "128": "logo_128.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "css": [
+        "content.css"
+      ],
+      "js": [
+        "app.js"
+      ],
+      "matches": [
+        "http://sol.ec.eco.br/",
+        "http://sol.ec.eco.br/solerp/index.php?mod=esquadrao&act=scrumesquadroes",
+        "http://192.168.0.250/",
+        "http://192.168.0.250/solerp/index.php?mod=esquadrao&act=scrumesquadroes"
+      ]
+    }
+  ]
 }
